@@ -93,15 +93,3 @@ function filterOption(e) {
     }
   })
 }
-
-// local Storage function
-// function saveTodos(todo) {
-//   let todos;
-//   if (localStorage.getItem('todos') === null) {
-//   d  todos = [];
-//   } else 
-//   {todos = JSON.parse(localStorage.getItem('todos'));}
-  
-// d  todos.push(todo);
-//   localStorage.setItem('todos', JSON.stringify(todos));
-// }
