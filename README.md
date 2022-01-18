@@ -7,5 +7,5 @@ Live Demo: https://ehabemad9599.github.io/Todo_list/
 
 
 ## Features
-- Add tasks to your list
+- Add tasks to your list ✅
 - Hide completed tasks to focus on what's important 🧐
